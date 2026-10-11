@@ -7,7 +7,7 @@ Software Development Engineer Intern | Aspiring Software Engineer
 I'm a Computer Science undergraduate at NSUT Delhi, currently working as a Software Development Engineer Intern at HireVed. I enjoy building full-stack applications, integrating AI-powered features, and solving challenging engineering problems. My interests include backend systems, application architecture, automation, and data structures and algorithms.
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [Portfolio](http://https://portfolio-bxqh.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://portfolio-bxqh.vercel.app/)
 * ✉️  You can contact me at [abhishekkumar150704@gmail.com](mailto:abhishekkumar150704@gmail.com)
 * 🚀  I'm currently working on [GhostIQ : Autonomous QA & Testing Platform](http://github.com/Abhishek-dotcom15/ghostiq)
 * 🧠  I'm currently learning Software engineering fundamentals, system design, DSA, and AI-powered application development
